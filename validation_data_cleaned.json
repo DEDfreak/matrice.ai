@@ -1,0 +1,3953 @@
+{
+  "database": {
+    "-UwqKYkkKlU": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            9.77656,
+            55.467
+          ]
+        }
+      ],
+      "duration": 64.0,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=-UwqKYkkKlU"
+    },
+    "-mX18jJkPDk": {
+      "annotations": [
+        {
+          "label": "Brushing hair",
+          "segment": [
+            14.49062,
+            109.71471
+          ]
+        },
+        {
+          "label": "Brushing hair",
+          "segment": [
+            127.16261,
+            187.21493
+          ]
+        }
+      ],
+      "duration": 189.62,
+      "resolution": "208x160",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=-mX18jJkPDk"
+    },
+    "0KqeKi2CBqg": {
+      "annotations": [
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            53.5627,
+            83.4806
+          ]
+        }
+      ],
+      "duration": 88.49,
+      "resolution": "480x360",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=0KqeKi2CBqg"
+    },
+    "0x4TP4MPelY": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            2.9974,
+            139.95565
+          ]
+        }
+      ],
+      "duration": 147.8,
+      "resolution": "176x144",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=0x4TP4MPelY"
+    },
+    "1cLxW-FhgpA": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            14.73068,
+            177.33476
+          ]
+        }
+      ],
+      "duration": 181.6,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=1cLxW-FhgpA"
+    },
+    "1qKXZ9fThTg": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            68.38682,
+            184.96568
+          ]
+        }
+      ],
+      "duration": 196.19,
+      "resolution": "426x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=1qKXZ9fThTg"
+    },
+    "2AE847UXu3Q": {
+      "annotations": [
+        {
+          "label": "Brushing hair",
+          "segment": [
+            14.20094,
+            30.67403
+          ]
+        }
+      ],
+      "duration": 121.37,
+      "resolution": "320x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=2AE847UXu3Q"
+    },
+    "2Jr1K1wBKfQ": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            21.24198,
+            47.27383
+          ]
+        },
+        {
+          "label": "Archery",
+          "segment": [
+            68.0993,
+            97.46322
+          ]
+        }
+      ],
+      "duration": 133.49,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=2Jr1K1wBKfQ"
+    },
+    "2UfljrwzsLs": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            0.73255,
+            39.66256
+          ]
+        }
+      ],
+      "duration": 67.27,
+      "resolution": "320x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=2UfljrwzsLs"
+    },
+    "3iHHhCHcT8I": {
+      "annotations": [
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            11.43526,
+            21.15523
+          ]
+        },
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            32.87637,
+            40.30928
+          ]
+        },
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            59.74922,
+            66.89626
+          ]
+        },
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            76.33034,
+            90.33853
+          ]
+        },
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            101.77379,
+            107.49142
+          ]
+        },
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            122.35725,
+            128.07488
+          ]
+        },
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            143.2266,
+            158.95008
+          ]
+        },
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            168.95593,
+            175.81708
+          ]
+        }
+      ],
+      "duration": 183.3,
+      "resolution": "640x360",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=3iHHhCHcT8I"
+    },
+    "4VAhZEpQsv8": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            8.69591,
+            106.6393
+          ]
+        }
+      ],
+      "duration": 195.65,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=4VAhZEpQsv8"
+    },
+    "4WUFEnFE5sY": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            10.62544,
+            29.81978
+          ]
+        }
+      ],
+      "duration": 219.75,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=4WUFEnFE5sY"
+    },
+    "5JG8Dc2wsdc": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            18.29015,
+            91.27655
+          ]
+        }
+      ],
+      "duration": 111.64,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=5JG8Dc2wsdc"
+    },
+    "5SpWmZxECqc": {
+      "annotations": [
+        {
+          "label": "Brushing hair",
+          "segment": [
+            23.73134,
+            101.61023
+          ]
+        },
+        {
+          "label": "Brushing hair",
+          "segment": [
+            119.32517,
+            207.23139
+          ]
+        }
+      ],
+      "duration": 214.25,
+      "resolution": "640x360",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=5SpWmZxECqc"
+    },
+    "5Y1AJsAE9UE": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            104.90504,
+            135.47753
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            171.35341,
+            192.87894
+          ]
+        }
+      ],
+      "duration": 200.32,
+      "resolution": "640x360",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=5Y1AJsAE9UE"
+    },
+    "5c8HvpeRWrc": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            0,
+            37.99567
+          ]
+        }
+      ],
+      "duration": 40.73,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=5c8HvpeRWrc"
+    },
+    "5pl_qttD8Fc": {
+      "annotations": [
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            5.32067,
+            7.68541
+          ]
+        },
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            44.57536,
+            52.14253
+          ]
+        },
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            60.77383,
+            61.60149
+          ]
+        }
+      ],
+      "duration": 75.79,
+      "resolution": "720x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=5pl_qttD8Fc"
+    },
+    "6-beYw2R10s": {
+      "annotations": [
+        {
+          "label": "Bathing dog",
+          "segment": [
+            10.22267,
+            38.75461
+          ]
+        }
+      ],
+      "duration": 48.95,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=6-beYw2R10s"
+    },
+    "6LWkrN1qz8E": {
+      "annotations": [
+        {
+          "label": "Brushing hair",
+          "segment": [
+            0,
+            232.581
+          ]
+        }
+      ],
+      "duration": 232.64,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=6LWkrN1qz8E"
+    },
+    "6PnPu_cLCvE": {
+      "annotations": [
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            4.02062,
+            18.29384
+          ]
+        },
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            82.63665,
+            96.10783
+          ]
+        }
+      ],
+      "duration": 128.92,
+      "resolution": "854x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=6PnPu_cLCvE"
+    },
+    "6RePzOd3GvQ": {
+      "annotations": [
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            5.04596,
+            6.26034
+          ]
+        }
+      ],
+      "duration": 13.52,
+      "resolution": "480x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=6RePzOd3GvQ"
+    },
+    "6UjZaj86bKs": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            17.8427,
+            221.9206
+          ]
+        }
+      ],
+      "duration": 227.86,
+      "resolution": "492x360",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=6UjZaj86bKs"
+    },
+    "7A_NgDs7jZY": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            13.19231,
+            204.64999
+          ]
+        }
+      ],
+      "duration": 216.72,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=7A_NgDs7jZY"
+    },
+    "7mmXZeOJT8w": {
+      "annotations": [
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            0.41926,
+            22.50046
+          ]
+        }
+      ],
+      "duration": 29.86,
+      "resolution": "192x144",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=7mmXZeOJT8w"
+    },
+    "7toItxBIVtk": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            0,
+            224.86383
+          ]
+        }
+      ],
+      "duration": 227.35,
+      "resolution": "320x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=7toItxBIVtk"
+    },
+    "87hsTxVtn-A": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            3.68005,
+            231.84308
+          ]
+        }
+      ],
+      "duration": 235.89,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=87hsTxVtn-A"
+    },
+    "8AQopjogplo": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            86.53065,
+            155.96847
+          ]
+        },
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            20.2157,
+            73.43804
+          ]
+        }
+      ],
+      "duration": 212.14,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=8AQopjogplo"
+    },
+    "8_XQPqLdblg": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            1.29625,
+            33.16238
+          ]
+        }
+      ],
+      "duration": 34.62,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=8_XQPqLdblg"
+    },
+    "92fD8Cy2zL0": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            88.09784,
+            178.259
+          ]
+        }
+      ],
+      "duration": 203.69,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=92fD8Cy2zL0"
+    },
+    "9Bo7Hr77DgA": {
+      "annotations": [
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            12.52664,
+            51.56127
+          ]
+        }
+      ],
+      "duration": 51.8,
+      "resolution": "320x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=9Bo7Hr77DgA"
+    },
+    "9I42aiA-UcY": {
+      "annotations": [
+        {
+          "label": "Bathing dog",
+          "segment": [
+            3.97102,
+            24.91901
+          ]
+        },
+        {
+          "label": "Bathing dog",
+          "segment": [
+            29.89057,
+            50.73704
+          ]
+        }
+      ],
+      "duration": 56.66,
+      "resolution": "568x320",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=9I42aiA-UcY"
+    },
+    "9cxGx2BsKkM": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            0.12997,
+            59.65782
+          ]
+        },
+        {
+          "label": "Archery",
+          "segment": [
+            64.72679,
+            82.14323
+          ]
+        }
+      ],
+      "duration": 83.31,
+      "resolution": "720x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=9cxGx2BsKkM"
+    },
+    "9pNfaRJ0K4o": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            54.79674,
+            132.67806
+          ]
+        }
+      ],
+      "duration": 149.47,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=9pNfaRJ0K4o"
+    },
+    "A3a6MNgab0c": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            44.36741,
+            47.3501
+          ]
+        },
+        {
+          "label": "Archery",
+          "segment": [
+            70.61503,
+            78.37
+          ]
+        },
+        {
+          "label": "Archery",
+          "segment": [
+            87.46719,
+            89.7042
+          ]
+        }
+      ],
+      "duration": 95.67,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=A3a6MNgab0c"
+    },
+    "ANeDHelwzK0": {
+      "annotations": [
+        {
+          "label": "Bathing dog",
+          "segment": [
+            12.86662,
+            53.49645
+          ]
+        }
+      ],
+      "duration": 53.89,
+      "resolution": "136x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=ANeDHelwzK0"
+    },
+    "AUFI2wx5Z48": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            1.27326,
+            62.70474
+          ]
+        },
+        {
+          "label": "Doing nails",
+          "segment": [
+            76.88721,
+            115.55833
+          ]
+        }
+      ],
+      "duration": 141.32,
+      "resolution": "1440x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=AUFI2wx5Z48"
+    },
+    "AmhfmeKk6Bg": {
+      "annotations": [
+        {
+          "label": "Brushing hair",
+          "segment": [
+            1.05122,
+            22.04051
+          ]
+        }
+      ],
+      "duration": 22.5,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=AmhfmeKk6Bg"
+    },
+    "BkBbzC6nIvA": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            13.77235,
+            219.65139
+          ]
+        }
+      ],
+      "duration": 226.42,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=BkBbzC6nIvA"
+    },
+    "BodF651KcIg": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            0.01,
+            226.15009
+          ]
+        }
+      ],
+      "duration": 236.87,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=BodF651KcIg"
+    },
+    "BtYKJOmw-aU": {
+      "annotations": [
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            0.01,
+            0.02
+          ]
+        }
+      ],
+      "duration": 112.66,
+      "resolution": "320x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=BtYKJOmw-aU"
+    },
+    "CRH5U5XKb2Q": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            4.74101,
+            217.20832
+          ]
+        }
+      ],
+      "duration": 225.16,
+      "resolution": "854x474",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=CRH5U5XKb2Q"
+    },
+    "CRNycmwvGXs": {
+      "annotations": [
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            89.54413,
+            131.75268
+          ]
+        }
+      ],
+      "duration": 152.86,
+      "resolution": "320x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=CRNycmwvGXs"
+    },
+    "Ck-9AHZNkq4": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            9.74716,
+            52.6538
+          ]
+        }
+      ],
+      "duration": 61.26,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=Ck-9AHZNkq4"
+    },
+    "D0pVkTEYQg8": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            0.01,
+            20.82846
+          ]
+        }
+      ],
+      "duration": 21.41,
+      "resolution": "426x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=D0pVkTEYQg8"
+    },
+    "DfOiHMcrCbs": {
+      "annotations": [
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            39.40793,
+            50.3053
+          ]
+        }
+      ],
+      "duration": 81.22,
+      "resolution": "320x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=DfOiHMcrCbs"
+    },
+    "ERGoTBC8NkA": {
+      "annotations": [
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            43.47297,
+            59.71665
+          ]
+        }
+      ],
+      "duration": 60.19,
+      "resolution": "320x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=ERGoTBC8NkA"
+    },
+    "Fok7z0mLNbU": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            0.01,
+            112.48746
+          ]
+        }
+      ],
+      "duration": 112.66,
+      "resolution": "480x272",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=Fok7z0mLNbU"
+    },
+    "GHBeLaysVaA": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            0,
+            133.16521
+          ]
+        }
+      ],
+      "duration": 136.14,
+      "resolution": "852x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=GHBeLaysVaA"
+    },
+    "HCntSYltlmA": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            120.08973,
+            131.83035
+          ]
+        },
+        {
+          "label": "Archery",
+          "segment": [
+            170.07121,
+            197.5778
+          ]
+        }
+      ],
+      "duration": 215.04,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=HCntSYltlmA"
+    },
+    "Ht9WSqhFD34": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            9.11503,
+            80.3341
+          ]
+        }
+      ],
+      "duration": 89.65,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=Ht9WSqhFD34"
+    },
+    "IEtCboPbTXI": {
+      "annotations": [
+        {
+          "label": "Bathing dog",
+          "segment": [
+            19.02419,
+            66.4138
+          ]
+        }
+      ],
+      "duration": 73.05,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=IEtCboPbTXI"
+    },
+    "IfKGdI5egKc": {
+      "annotations": [
+        {
+          "label": "Bathing dog",
+          "segment": [
+            19.75281,
+            98.58847
+          ]
+        }
+      ],
+      "duration": 112.55,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=IfKGdI5egKc"
+    },
+    "IjULOynkK5I": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            15.07135,
+            25.3422
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            32.15221,
+            43.42781
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            50.90767,
+            71.561
+          ]
+        }
+      ],
+      "duration": 71.63,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=IjULOynkK5I"
+    },
+    "JDM9Akcs96g": {
+      "annotations": [
+        {
+          "label": "Bathing dog",
+          "segment": [
+            0.01,
+            13.6542
+          ]
+        }
+      ],
+      "duration": 14.07,
+      "resolution": "320x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=JDM9Akcs96g"
+    },
+    "JE50XTpCN78": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            93.09382,
+            207.19781
+          ]
+        }
+      ],
+      "duration": 219.03,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=JE50XTpCN78"
+    },
+    "JJyV1AIQj4M": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            16.77869,
+            197.19471
+          ]
+        }
+      ],
+      "duration": 231.39,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=JJyV1AIQj4M"
+    },
+    "K_IqYFJKIgk": {
+      "annotations": [
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            0.01,
+            28.37667
+          ]
+        }
+      ],
+      "duration": 233.2,
+      "resolution": "640x360",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=K_IqYFJKIgk"
+    },
+    "KgM8_YBJbM4": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            0,
+            58.30531
+          ]
+        }
+      ],
+      "duration": 58.31,
+      "resolution": "426x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=KgM8_YBJbM4"
+    },
+    "LLFhSU-XuTI": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            0.01,
+            5.80122
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            15.62587,
+            33.21667
+          ]
+        }
+      ],
+      "duration": 59.98,
+      "resolution": "720x1280",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=LLFhSU-XuTI"
+    },
+    "MaJlWFemO68": {
+      "annotations": [
+        {
+          "label": "Brushing hair",
+          "segment": [
+            0.36677,
+            14.81766
+          ]
+        }
+      ],
+      "duration": 15.67,
+      "resolution": "176x144",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=MaJlWFemO68"
+    },
+    "Mx6Gt14tnmY": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            64.21861,
+            79.59912
+          ]
+        },
+        {
+          "label": "Doing nails",
+          "segment": [
+            104.64737,
+            141.06122
+          ]
+        }
+      ],
+      "duration": 141.06,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=Mx6Gt14tnmY"
+    },
+    "Nn-KZMYbOv4": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            6.6204,
+            131.74604
+          ]
+        }
+      ],
+      "duration": 141.46,
+      "resolution": "960x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=Nn-KZMYbOv4"
+    },
+    "NsqW8ZwYDEk": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            94.38825,
+            141.43626
+          ]
+        }
+      ],
+      "duration": 187.32,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=NsqW8ZwYDEk"
+    },
+    "Nx4rK_jvvR4": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            4.3013,
+            23.70103
+          ]
+        }
+      ],
+      "duration": 28.19,
+      "resolution": "640x360",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=Nx4rK_jvvR4"
+    },
+    "Oent5pguFk4": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            0.01,
+            10.15879
+          ]
+        }
+      ],
+      "duration": 21.18,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=Oent5pguFk4"
+    },
+    "QhiKgeJV3k0": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            4.10395,
+            4.10395
+          ]
+        },
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            29.33565,
+            170.99795
+          ]
+        }
+      ],
+      "duration": 195.05,
+      "resolution": "320x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=QhiKgeJV3k0"
+    },
+    "QjMNQxu3Zf8": {
+      "annotations": [
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            4.07179,
+            67.91909
+          ]
+        }
+      ],
+      "duration": 70.59,
+      "resolution": "320x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=QjMNQxu3Zf8"
+    },
+    "QjaEDlh805g": {
+      "annotations": [
+        {
+          "label": "Brushing hair",
+          "segment": [
+            21.41977,
+            198.05053
+          ]
+        }
+      ],
+      "duration": 211.23,
+      "resolution": "854x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=QjaEDlh805g"
+    },
+    "QokthYjtPzM": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            2.24322,
+            67.62298
+          ]
+        }
+      ],
+      "duration": 112.9,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=QokthYjtPzM"
+    },
+    "QzbZxKJ-YBY": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            3.50242,
+            92.56407
+          ]
+        }
+      ],
+      "duration": 160.38,
+      "resolution": "854x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=QzbZxKJ-YBY"
+    },
+    "R3HC-IAZVZg": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            60.62038,
+            79.33038
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            90.93057,
+            95.60807
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            106.27277,
+            109.07927
+          ]
+        }
+      ],
+      "duration": 119.93,
+      "resolution": "426x234",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=R3HC-IAZVZg"
+    },
+    "R7iFa9OpoTY": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            22.23953,
+            26.28309
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            39.22245,
+            50.5444
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            67.04209,
+            73.83525
+          ]
+        }
+      ],
+      "duration": 103.72,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=R7iFa9OpoTY"
+    },
+    "R8vqzwGs6aE": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            33.73988,
+            180.96845
+          ]
+        }
+      ],
+      "duration": 206.96,
+      "resolution": "720x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=R8vqzwGs6aE"
+    },
+    "RHb_nF11Scc": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            1.47669,
+            29.58153
+          ]
+        }
+      ],
+      "duration": 30.54,
+      "resolution": "176x144",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=RHb_nF11Scc"
+    },
+    "RN2QwhcAsUY": {
+      "annotations": [
+        {
+          "label": "Bathing dog",
+          "segment": [
+            11.35413,
+            113.16287
+          ]
+        }
+      ],
+      "duration": 121.35,
+      "resolution": "320x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=RN2QwhcAsUY"
+    },
+    "RTD_JWmhNkA": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            0.01,
+            119.11524
+          ]
+        }
+      ],
+      "duration": 121.67,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=RTD_JWmhNkA"
+    },
+    "RVHx_Otzcl0": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            0.69544,
+            219.41115
+          ]
+        }
+      ],
+      "duration": 222.89,
+      "resolution": "640x352",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=RVHx_Otzcl0"
+    },
+    "RVbejE3s3m4": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            1.81485,
+            37.08346
+          ]
+        }
+      ],
+      "duration": 38.78,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=RVbejE3s3m4"
+    },
+    "RpH774VD6Hw": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            20.51919,
+            29.44739
+          ]
+        },
+        {
+          "label": "Archery",
+          "segment": [
+            41.19502,
+            73.61847
+          ]
+        },
+        {
+          "label": "Archery",
+          "segment": [
+            79.5706,
+            92.1014
+          ]
+        }
+      ],
+      "duration": 100.4,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=RpH774VD6Hw"
+    },
+    "S9alQwrQ-oo": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            9.3339,
+            105.51638
+          ]
+        }
+      ],
+      "duration": 148.7,
+      "resolution": "854x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=S9alQwrQ-oo"
+    },
+    "T8ae3_Pm5eE": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            39.31812,
+            192.95616
+          ]
+        }
+      ],
+      "duration": 211.79,
+      "resolution": "848x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=T8ae3_Pm5eE"
+    },
+    "TAC-5hXVLPY": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            26.60917,
+            135.95582
+          ]
+        },
+        {
+          "label": "Archery",
+          "segment": [
+            160.40829,
+            169.82778
+          ]
+        }
+      ],
+      "duration": 177.66,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=TAC-5hXVLPY"
+    },
+    "ToLMOwlrgm0": {
+      "annotations": [
+        {
+          "label": "Brushing hair",
+          "segment": [
+            36.36202,
+            61.28623
+          ]
+        },
+        {
+          "label": "Brushing hair",
+          "segment": [
+            71.87048,
+            75.62618
+          ]
+        },
+        {
+          "label": "Brushing hair",
+          "segment": [
+            102.94038,
+            131.27886
+          ]
+        },
+        {
+          "label": "Brushing hair",
+          "segment": [
+            149.37451,
+            151.7645
+          ]
+        },
+        {
+          "label": "Brushing hair",
+          "segment": [
+            168.49445,
+            189.66295
+          ]
+        },
+        {
+          "label": "Brushing hair",
+          "segment": [
+            197.17436,
+            211.85574
+          ]
+        }
+      ],
+      "duration": 218.8,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=ToLMOwlrgm0"
+    },
+    "U7oDqpIYsxI": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            36.22947,
+            38.8581
+          ]
+        }
+      ],
+      "duration": 73.26,
+      "resolution": "312x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=U7oDqpIYsxI"
+    },
+    "UJwWjTvDEpQ": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            2.097,
+            130.08843
+          ]
+        }
+      ],
+      "duration": 131.05,
+      "resolution": "320x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=UJwWjTvDEpQ"
+    },
+    "Ujgmih4OtMs": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            24.91416,
+            58.13303
+          ]
+        },
+        {
+          "label": "Archery",
+          "segment": [
+            83.04719,
+            190.39337
+          ]
+        }
+      ],
+      "duration": 197.06,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=Ujgmih4OtMs"
+    },
+    "UxlSiLBleX4": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            15.51637,
+            207.69293
+          ]
+        }
+      ],
+      "duration": 230.18,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=UxlSiLBleX4"
+    },
+    "V3LvKGRzkeg": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            8.9642,
+            110.99607
+          ]
+        }
+      ],
+      "duration": 115.01,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=V3LvKGRzkeg"
+    },
+    "VDYSVR0HbpM": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            21.31976,
+            175.22176
+          ]
+        }
+      ],
+      "duration": 213.53,
+      "resolution": "854x470",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=VDYSVR0HbpM"
+    },
+    "WHchTZ61VT4": {
+      "annotations": [
+        {
+          "label": "Bathing dog",
+          "segment": [
+            0.01,
+            103.83793
+          ]
+        },
+        {
+          "label": "Bathing dog",
+          "segment": [
+            121.20292,
+            150.21833
+          ]
+        }
+      ],
+      "duration": 150.79,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=WHchTZ61VT4"
+    },
+    "WRc1Jv1j3nk": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            6.27619,
+            22.8311
+          ]
+        },
+        {
+          "label": "Archery",
+          "segment": [
+            26.85048,
+            32.31777
+          ]
+        }
+      ],
+      "duration": 38.94,
+      "resolution": "854x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=WRc1Jv1j3nk"
+    },
+    "X9AnhFjdiXA": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            0,
+            144.67542
+          ]
+        }
+      ],
+      "duration": 149.1,
+      "resolution": "480x360",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=X9AnhFjdiXA"
+    },
+    "XX2sXEmR4BE": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            0.01,
+            19.28126
+          ]
+        }
+      ],
+      "duration": 23.45,
+      "resolution": "526x360",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=XX2sXEmR4BE"
+    },
+    "Y-2nhi8JdO8": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            8.60991,
+            154.24876
+          ]
+        }
+      ],
+      "duration": 187.08,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=Y-2nhi8JdO8"
+    },
+    "YSrnHPcdGL4": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            14.64556,
+            129.75964
+          ]
+        }
+      ],
+      "duration": 187.76,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=YSrnHPcdGL4"
+    },
+    "Yl85vnsndx0": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            0.01,
+            199.39435
+          ]
+        }
+      ],
+      "duration": 219.99,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=Yl85vnsndx0"
+    },
+    "ZBAQx9DxYTo": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            58.85135,
+            76.96978
+          ]
+        }
+      ],
+      "duration": 86.08,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=ZBAQx9DxYTo"
+    },
+    "ZJk05q3y5iM": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            8.17629,
+            48.44229
+          ]
+        }
+      ],
+      "duration": 56.36,
+      "resolution": "272x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=ZJk05q3y5iM"
+    },
+    "Zomv5zlkkEc": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            0.01,
+            182.67138
+          ]
+        }
+      ],
+      "duration": 182.67,
+      "resolution": "640x352",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=Zomv5zlkkEc"
+    },
+    "_HMwzNA9DNY": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            27.33507,
+            91.68962
+          ]
+        }
+      ],
+      "duration": 100.13,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=_HMwzNA9DNY"
+    },
+    "a8dUtKcAunw": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            4.3791,
+            110.93708
+          ]
+        }
+      ],
+      "duration": 117.03,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=a8dUtKcAunw"
+    },
+    "aS0wGPhD48o": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            9.11523,
+            61.559
+          ]
+        }
+      ],
+      "duration": 80.04,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=aS0wGPhD48o"
+    },
+    "ayLeSjJz53I": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            5.23893,
+            140.76778
+          ]
+        }
+      ],
+      "duration": 146.01,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=ayLeSjJz53I"
+    },
+    "bPZRYmr7p1k": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            37.51528,
+            40.84503
+          ]
+        },
+        {
+          "label": "Archery",
+          "segment": [
+            78.13833,
+            78.36031
+          ]
+        },
+        {
+          "label": "Archery",
+          "segment": [
+            55.71795,
+            58.60374
+          ]
+        },
+        {
+          "label": "Archery",
+          "segment": [
+            63.04342,
+            67.92707
+          ]
+        }
+      ],
+      "duration": 143.73,
+      "resolution": "576x320",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=bPZRYmr7p1k"
+    },
+    "bQhCEXZwnMM": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            92.25354,
+            208.76136
+          ]
+        }
+      ],
+      "duration": 226.28,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=bQhCEXZwnMM"
+    },
+    "bfBTnUiGVUo": {
+      "annotations": [
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            0.46315,
+            63.98318
+          ]
+        }
+      ],
+      "duration": 69.59,
+      "resolution": "272x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=bfBTnUiGVUo"
+    },
+    "bwRsZtPzipc": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            13.20692,
+            214.542
+          ]
+        }
+      ],
+      "duration": 228.86,
+      "resolution": "600x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=bwRsZtPzipc"
+    },
+    "dIC0nm4nrI8": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            3.2588,
+            109.3019
+          ]
+        }
+      ],
+      "duration": 113.08,
+      "resolution": "720x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=dIC0nm4nrI8"
+    },
+    "dQR6VEemP24": {
+      "annotations": [
+        {
+          "label": "Bathing dog",
+          "segment": [
+            0.84403,
+            37.22184
+          ]
+        }
+      ],
+      "duration": 54.1,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=dQR6VEemP24"
+    },
+    "dTwH5Fzu4eE": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            2.07882,
+            34.83428
+          ]
+        }
+      ],
+      "duration": 36.02,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=dTwH5Fzu4eE"
+    },
+    "euyYRNOSPE0": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            6.20179,
+            178.72441
+          ]
+        }
+      ],
+      "duration": 180.7,
+      "resolution": "534x360",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=euyYRNOSPE0"
+    },
+    "f11zga3X2L4": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            7.96836,
+            99.24229
+          ]
+        }
+      ],
+      "duration": 132.73,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=f11zga3X2L4"
+    },
+    "fklBsM-H7-Y": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            4.83596,
+            102.03874
+          ]
+        }
+      ],
+      "duration": 103.42,
+      "resolution": "562x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=fklBsM-H7-Y"
+    },
+    "hL11sP4Hlrg": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            22.46516,
+            97.1664
+          ]
+        }
+      ],
+      "duration": 117.08,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=hL11sP4Hlrg"
+    },
+    "hiVs1hNyPpw": {
+      "annotations": [
+        {
+          "label": "Brushing hair",
+          "segment": [
+            0.01,
+            64.55147
+          ]
+        }
+      ],
+      "duration": 64.55,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=hiVs1hNyPpw"
+    },
+    "ho8cKYrtufU": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            70.37843,
+            176.221
+          ]
+        }
+      ],
+      "duration": 176.31,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=ho8cKYrtufU"
+    },
+    "iWSKl7vOd2s": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            0.01,
+            40.83017
+          ]
+        }
+      ],
+      "duration": 67.45,
+      "resolution": "854x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=iWSKl7vOd2s"
+    },
+    "jUmfhYsA5r0": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            0.01,
+            56.01984
+          ]
+        }
+      ],
+      "duration": 66.76,
+      "resolution": "482x360",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=jUmfhYsA5r0"
+    },
+    "jmSrbVNKF6U": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            2.03032,
+            79.56297
+          ]
+        }
+      ],
+      "duration": 81.34,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=jmSrbVNKF6U"
+    },
+    "kPM3RAn0Mk4": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            31.89036,
+            196.41561
+          ]
+        }
+      ],
+      "duration": 232.29,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=kPM3RAn0Mk4"
+    },
+    "kRom61pt8zk": {
+      "annotations": [
+        {
+          "label": "Brushing hair",
+          "segment": [
+            76.51739,
+            163.39052
+          ]
+        }
+      ],
+      "duration": 184.39,
+      "resolution": "640x360",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=kRom61pt8zk"
+    },
+    "kfwwya1qzXM": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            18.61206,
+            182.85536
+          ]
+        }
+      ],
+      "duration": 209.31,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=kfwwya1qzXM"
+    },
+    "ksvK_P-Eas4": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            20.44704,
+            228.63512
+          ]
+        }
+      ],
+      "duration": 238.33,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=ksvK_P-Eas4"
+    },
+    "kt3hzGla8r4": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            0.01,
+            4.59947
+          ]
+        },
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            6.01469,
+            47.05613
+          ]
+        },
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            61.91595,
+            154.61298
+          ]
+        }
+      ],
+      "duration": 226.79,
+      "resolution": "854x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=kt3hzGla8r4"
+    },
+    "kuJO1VapxuQ": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            6.304,
+            190.16745
+          ]
+        }
+      ],
+      "duration": 198.74,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=kuJO1VapxuQ"
+    },
+    "lNvX6h3o4EA": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            3.01778,
+            28.74566
+          ]
+        }
+      ],
+      "duration": 32.79,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=lNvX6h3o4EA"
+    },
+    "lSgkR94_h8Q": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            16.87232,
+            221.49407
+          ]
+        }
+      ],
+      "duration": 230.11,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=lSgkR94_h8Q"
+    },
+    "lU-PEm5L5EU": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            12.75561,
+            23.57366
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            41.65757,
+            54.41318
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            78.55411,
+            96.04657
+          ]
+        }
+      ],
+      "duration": 103.89,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=lU-PEm5L5EU"
+    },
+    "lcEGoZAC7GI": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            37.24358,
+            40.51465
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            49.95406,
+            53.78589
+          ]
+        }
+      ],
+      "duration": 59.91,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=lcEGoZAC7GI"
+    },
+    "le1aEgEms9Y": {
+      "annotations": [
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            33.46893,
+            138.65699
+          ]
+        }
+      ],
+      "duration": 144.92,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=le1aEgEms9Y"
+    },
+    "lfllVwgOWBk": {
+      "annotations": [
+        {
+          "label": "Brushing hair",
+          "segment": [
+            35.1816,
+            60.41825
+          ]
+        }
+      ],
+      "duration": 68.55,
+      "resolution": "640x360",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=lfllVwgOWBk"
+    },
+    "mmRpNwb0NZ0": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            25.13522,
+            100.74197
+          ]
+        }
+      ],
+      "duration": 128.89,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=mmRpNwb0NZ0"
+    },
+    "movzxpiGX8k": {
+      "annotations": [
+        {
+          "label": "Brushing hair",
+          "segment": [
+            6.09148,
+            34.54687
+          ]
+        },
+        {
+          "label": "Brushing hair",
+          "segment": [
+            41.60753,
+            80.00332
+          ]
+        }
+      ],
+      "duration": 99.4,
+      "resolution": "562x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=movzxpiGX8k"
+    },
+    "mzewLmZSCMU": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            7.1897,
+            31.04337
+          ]
+        }
+      ],
+      "duration": 43.1,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=mzewLmZSCMU"
+    },
+    "nDJgThY8zi8": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            12.08774,
+            32.97403
+          ]
+        }
+      ],
+      "duration": 52.71,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=nDJgThY8zi8"
+    },
+    "nDo0nfs9Ee4": {
+      "annotations": [
+        {
+          "label": "Bathing dog",
+          "segment": [
+            0.25019,
+            17.22152
+          ]
+        }
+      ],
+      "duration": 17.32,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=nDo0nfs9Ee4"
+    },
+    "nGABbRHJ2Ug": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            28.80116,
+            64.84678
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            83.39968,
+            111.51375
+          ]
+        }
+      ],
+      "duration": 113.34,
+      "resolution": "406x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=nGABbRHJ2Ug"
+    },
+    "nMFEEBtIu-Y": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            68.37521,
+            129.98462
+          ]
+        },
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            32.33776,
+            49.51946
+          ]
+        },
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            116.55671,
+            216.10818
+          ]
+        }
+      ],
+      "duration": 227.09,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=nMFEEBtIu-Y"
+    },
+    "noKDv_a8u-Y": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            0,
+            203.17454
+          ]
+        }
+      ],
+      "duration": 209.77,
+      "resolution": "720x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=noKDv_a8u-Y"
+    },
+    "nw32dno_RcM": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            1.68888,
+            33.94103
+          ]
+        }
+      ],
+      "duration": 34.97,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=nw32dno_RcM"
+    },
+    "oNrWO_VQQbk": {
+      "annotations": [
+        {
+          "label": "Bathing dog",
+          "segment": [
+            117.3107,
+            126.2063
+          ]
+        }
+      ],
+      "duration": 178.19,
+      "resolution": "448x360",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=oNrWO_VQQbk"
+    },
+    "odbjmsyfJe4": {
+      "annotations": [
+        {
+          "label": "Brushing hair",
+          "segment": [
+            0.04138,
+            13.145
+          ]
+        }
+      ],
+      "duration": 20.88,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=odbjmsyfJe4"
+    },
+    "pIk_bbjCNDo": {
+      "annotations": [
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            0.10422,
+            22.16372
+          ]
+        }
+      ],
+      "duration": 22.27,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=pIk_bbjCNDo"
+    },
+    "pSp7zYRYjHE": {
+      "annotations": [
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            4.91361,
+            28.54139
+          ]
+        }
+      ],
+      "duration": 32.11,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=pSp7zYRYjHE"
+    },
+    "q4Oy6EDTJiM": {
+      "annotations": [
+        {
+          "label": "Bathing dog",
+          "segment": [
+            1.28148,
+            34.25049
+          ]
+        }
+      ],
+      "duration": 74.68,
+      "resolution": "360x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=q4Oy6EDTJiM"
+    },
+    "q81H-V1_gGo": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            27.98218,
+            149.15503
+          ]
+        }
+      ],
+      "duration": 160.15,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=q81H-V1_gGo"
+    },
+    "qNxLTF4Q6yk": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            0.01,
+            229.55184
+          ]
+        }
+      ],
+      "duration": 229.55,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=qNxLTF4Q6yk"
+    },
+    "qhnWJ4G5JMA": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            126.50858,
+            139.87335
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            8.63875,
+            116.35516
+          ]
+        }
+      ],
+      "duration": 167.0,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=qhnWJ4G5JMA"
+    },
+    "qiRrR2Nj2SQ": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            5.4297,
+            73.30099
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            77.06001,
+            122.37715
+          ]
+        }
+      ],
+      "duration": 133.86,
+      "resolution": "640x360",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=qiRrR2Nj2SQ"
+    },
+    "r6z6Ct16I_8": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            0.61873,
+            8.04349
+          ]
+        },
+        {
+          "label": "Doing nails",
+          "segment": [
+            25.1693,
+            29.39857
+          ]
+        },
+        {
+          "label": "Doing nails",
+          "segment": [
+            46.21249,
+            56.01202
+          ]
+        }
+      ],
+      "duration": 66.15,
+      "resolution": "432x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=r6z6Ct16I_8"
+    },
+    "rWDMssiL7hE": {
+      "annotations": [
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            0.97513,
+            3.14208
+          ]
+        },
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            8.99285,
+            11.15981
+          ]
+        },
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            28.49543,
+            33.47942
+          ]
+        },
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            39.54689,
+            51.89852
+          ]
+        },
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            56.88251,
+            71.83448
+          ]
+        },
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            79.41882,
+            83.10263
+          ]
+        },
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            95.45427,
+            99.35478
+          ]
+        }
+      ],
+      "duration": 138.95,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=rWDMssiL7hE"
+    },
+    "r_jey4tT7zo": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            14.7166,
+            49.62764
+          ]
+        }
+      ],
+      "duration": 52.41,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=r_jey4tT7zo"
+    },
+    "sARnRvNdl-Y": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            2.41213,
+            111.88692
+          ]
+        }
+      ],
+      "duration": 126.22,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=sARnRvNdl-Y"
+    },
+    "sdR443ncw-I": {
+      "annotations": [
+        {
+          "label": "Brushing hair",
+          "segment": [
+            0.84928,
+            23.49833
+          ]
+        }
+      ],
+      "duration": 23.59,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=sdR443ncw-I"
+    },
+    "tnt6Wpv_kHc": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            105.7837,
+            166.60212
+          ]
+        }
+      ],
+      "duration": 184.76,
+      "resolution": "360x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=tnt6Wpv_kHc"
+    },
+    "ur873jaQO3A": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            49.40483,
+            89.81858
+          ]
+        }
+      ],
+      "duration": 130.38,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=ur873jaQO3A"
+    },
+    "vg-FrXO1coA": {
+      "annotations": [
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            39.42888,
+            215.95015
+          ]
+        }
+      ],
+      "duration": 231.53,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=vg-FrXO1coA"
+    },
+    "vgC8jB2FhAg": {
+      "annotations": [
+        {
+          "label": "Ballet",
+          "segment": [
+            2.28505,
+            173.09226
+          ]
+        }
+      ],
+      "duration": 183.09,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=vgC8jB2FhAg"
+    },
+    "vw065HaGq3I": {
+      "annotations": [
+        {
+          "label": "Brushing hair",
+          "segment": [
+            4.13827,
+            11.31127
+          ]
+        },
+        {
+          "label": "Brushing hair",
+          "segment": [
+            32.89923,
+            37.24441
+          ]
+        }
+      ],
+      "duration": 44.21,
+      "resolution": "320x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=vw065HaGq3I"
+    },
+    "wcmO0R3Kqzo": {
+      "annotations": [
+        {
+          "label": "Doing nails",
+          "segment": [
+            15.9786,
+            79.74775
+          ]
+        }
+      ],
+      "duration": 93.25,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=wcmO0R3Kqzo"
+    },
+    "x0PE_98UO3s": {
+      "annotations": [
+        {
+          "label": "Archery",
+          "segment": [
+            12.48963,
+            119.51618
+          ]
+        }
+      ],
+      "duration": 123.44,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=x0PE_98UO3s"
+    },
+    "x4c_wI6kQyE": {
+      "annotations": [
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            35.78191,
+            41.48946
+          ]
+        },
+        {
+          "label": "Smoking a cigarette",
+          "segment": [
+            43.57491,
+            54.22167
+          ]
+        }
+      ],
+      "duration": 70.36,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=x4c_wI6kQyE"
+    },
+    "x4f4jp_eHHo": {
+      "annotations": [
+        {
+          "label": "Belly dance",
+          "segment": [
+            20.76233,
+            225.52191
+          ]
+        }
+      ],
+      "duration": 229.46,
+      "resolution": "320x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=x4f4jp_eHHo"
+    },
+    "x_FAc0KqMVw": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            71.67907,
+            114.31416
+          ]
+        }
+      ],
+      "duration": 119.37,
+      "resolution": "1280x720",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=x_FAc0KqMVw"
+    },
+    "xoSA8_kTiBY": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            46.62127,
+            76.27898
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            13.57994,
+            41.13462
+          ]
+        }
+      ],
+      "duration": 82.55,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=xoSA8_kTiBY"
+    },
+    "yFJVEplkVHA": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            4.32597,
+            4.48619
+          ]
+        },
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            14.25967,
+            23.23205
+          ]
+        },
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            35.0884,
+            40.05526
+          ]
+        }
+      ],
+      "duration": 102.7,
+      "resolution": "854x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=yFJVEplkVHA"
+    },
+    "yu1XjQUctiM": {
+      "annotations": [
+        {
+          "label": "Brushing teeth",
+          "segment": [
+            24.61632,
+            88.83918
+          ]
+        }
+      ],
+      "duration": 94.32,
+      "resolution": "640x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=yu1XjQUctiM"
+    },
+    "z3-tII3XcUs": {
+      "annotations": [
+        {
+          "label": "Playing guitarra",
+          "segment": [
+            0.01,
+            4.65562
+          ]
+        }
+      ],
+      "duration": 6.06,
+      "resolution": "480x480",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=z3-tII3XcUs"
+    },
+    "zb6WUBWwXfk": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            24.62446,
+            184.5276
+          ]
+        }
+      ],
+      "duration": 199.86,
+      "resolution": "320x240",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=zb6WUBWwXfk"
+    },
+    "zg6BRB4a3Fo": {
+      "annotations": [
+        {
+          "label": "Spinning",
+          "segment": [
+            30.08115,
+            41.15044
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            53.14217,
+            61.83947
+          ]
+        },
+        {
+          "label": "Spinning",
+          "segment": [
+            70.27322,
+            82.00139
+          ]
+        }
+      ],
+      "duration": 84.68,
+      "resolution": "1920x1080",
+      "subset": "validation",
+      "url": "https://www.youtube.com/watch?v=zg6BRB4a3Fo"
+    }
+  },
+  "taxonomy": [
+    {
+      "nodeId": 68,
+      "nodeName": "Drinking coffee",
+      "parentId": 46,
+      "parentName": "Eating and Drinking"
+    },
+    {
+      "nodeId": 46,
+      "nodeName": "Eating and Drinking",
+      "parentId": 18,
+      "parentName": "Food & Drink Prep., Presentation, & Clean-up"
+    },
+    {
+      "nodeId": 18,
+      "nodeName": "Food & Drink Prep., Presentation, & Clean-up",
+      "parentId": 4,
+      "parentName": "Eating and drinking Activities"
+    },
+    {
+      "nodeId": 4,
+      "nodeName": "Eating and drinking Activities",
+      "parentId": 0,
+      "parentName": "Root"
+    },
+    {
+      "nodeId": 0,
+      "nodeName": "Root",
+      "parentId": null,
+      "parentName": null
+    },
+    {
+      "nodeId": 69,
+      "nodeName": "Zumba",
+      "parentId": 55,
+      "parentName": "Doing aerobics"
+    },
+    {
+      "nodeId": 55,
+      "nodeName": "Doing aerobics",
+      "parentId": 17,
+      "parentName": "Participating in Sports, Exercise, or Recreation"
+    },
+    {
+      "nodeId": 17,
+      "nodeName": "Participating in Sports, Exercise, or Recreation",
+      "parentId": 5,
+      "parentName": "Sports, Exercise, and Recreation"
+    },
+    {
+      "nodeId": 5,
+      "nodeName": "Sports, Exercise, and Recreation",
+      "parentId": 0,
+      "parentName": "Root"
+    },
+    {
+      "nodeId": 70,
+      "nodeName": "Doing kickboxing",
+      "parentId": 27,
+      "parentName": "Participating in martial arts"
+    },
+    {
+      "nodeId": 27,
+      "nodeName": "Participating in martial arts",
+      "parentId": 17,
+      "parentName": "Participating in Sports, Exercise, or Recreation"
+    },
+    {
+      "nodeId": 99,
+      "nodeName": "Doing karate",
+      "parentId": 27,
+      "parentName": "Participating in martial arts"
+    },
+    {
+      "nodeId": 73,
+      "nodeName": "Tango",
+      "parentId": 23,
+      "parentName": "Dancing"
+    },
+    {
+      "nodeId": 23,
+      "nodeName": "Dancing",
+      "parentId": 21,
+      "parentName": "Arts and Entertainment"
+    },
+    {
+      "nodeId": 21,
+      "nodeName": "Arts and Entertainment",
+      "parentId": 7,
+      "parentName": "Socializing, Relaxing, and Leisure"
+    },
+    {
+      "nodeId": 7,
+      "nodeName": "Socializing, Relaxing, and Leisure",
+      "parentId": 0,
+      "parentName": "Root"
+    },
+    {
+      "nodeId": 76,
+      "nodeName": "Putting on makeup",
+      "parentId": 62,
+      "parentName": "Washing, dressing and grooming oneself"
+    },
+    {
+      "nodeId": 62,
+      "nodeName": "Washing, dressing and grooming oneself",
+      "parentId": 20,
+      "parentName": "Grooming"
+    },
+    {
+      "nodeId": 20,
+      "nodeName": "Grooming",
+      "parentId": 2,
+      "parentName": "Personal Care"
+    },
+    {
+      "nodeId": 2,
+      "nodeName": "Personal Care",
+      "parentId": 0,
+      "parentName": "Root"
+    },
+    {
+      "nodeId": 195,
+      "nodeName": "High jump",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 64,
+      "nodeName": "Playing sports",
+      "parentId": 17,
+      "parentName": "Participating in Sports, Exercise, or Recreation"
+    },
+    {
+      "nodeId": 136,
+      "nodeName": "Playing bagpipes",
+      "parentId": 61,
+      "parentName": "Playing musical instruments"
+    },
+    {
+      "nodeId": 61,
+      "nodeName": "Playing musical instruments",
+      "parentId": 21,
+      "parentName": "Arts and Entertainment"
+    },
+    {
+      "nodeId": 140,
+      "nodeName": "Cheerleading",
+      "parentId": 23,
+      "parentName": "Dancing"
+    },
+    {
+      "nodeId": 179,
+      "nodeName": "Wrapping presents",
+      "parentId": 41,
+      "parentName": "Household & personal organization and planning"
+    },
+    {
+      "nodeId": 41,
+      "nodeName": "Household & personal organization and planning",
+      "parentId": 19,
+      "parentName": "Household Management"
+    },
+    {
+      "nodeId": 19,
+      "nodeName": "Household Management",
+      "parentId": 1,
+      "parentName": "Household Activities"
+    },
+    {
+      "nodeId": 1,
+      "nodeName": "Household Activities",
+      "parentId": 0,
+      "parentName": "Root"
+    },
+    {
+      "nodeId": 82,
+      "nodeName": "Cricket",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 84,
+      "nodeName": "Clean and jerk",
+      "parentId": 35,
+      "parentName": "Weightlifting"
+    },
+    {
+      "nodeId": 35,
+      "nodeName": "Weightlifting",
+      "parentId": 17,
+      "parentName": "Participating in Sports, Exercise, or Recreation"
+    },
+    {
+      "nodeId": 186,
+      "nodeName": "Preparing pasta",
+      "parentId": 31,
+      "parentName": "Food and drink preparation "
+    },
+    {
+      "nodeId": 31,
+      "nodeName": "Food and drink preparation ",
+      "parentId": 18,
+      "parentName": "Food & Drink Prep., Presentation, & Clean-up"
+    },
+    {
+      "nodeId": 90,
+      "nodeName": "Bathing dog",
+      "parentId": 65,
+      "parentName": "Care for animals and pets (not veterinary care)"
+    },
+    {
+      "nodeId": 65,
+      "nodeName": "Care for animals and pets (not veterinary care)",
+      "parentId": 22,
+      "parentName": "Animals and Pets"
+    },
+    {
+      "nodeId": 22,
+      "nodeName": "Animals and Pets",
+      "parentId": 1,
+      "parentName": "Household Activities"
+    },
+    {
+      "nodeId": 92,
+      "nodeName": "Discus throw",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 94,
+      "nodeName": "Playing field hockey",
+      "parentId": 60,
+      "parentName": "Playing hockey"
+    },
+    {
+      "nodeId": 60,
+      "nodeName": "Playing hockey",
+      "parentId": 17,
+      "parentName": "Participating in Sports, Exercise, or Recreation"
+    },
+    {
+      "nodeId": 95,
+      "nodeName": "Grooming horse",
+      "parentId": 26,
+      "parentName": "Walking / exercising / playing with animals"
+    },
+    {
+      "nodeId": 26,
+      "nodeName": "Walking / exercising / playing with animals",
+      "parentId": 22,
+      "parentName": "Animals and Pets"
+    },
+    {
+      "nodeId": 96,
+      "nodeName": "Preparing salad",
+      "parentId": 31,
+      "parentName": "Food and drink preparation "
+    },
+    {
+      "nodeId": 100,
+      "nodeName": "Playing harmonica",
+      "parentId": 61,
+      "parentName": "Playing musical instruments"
+    },
+    {
+      "nodeId": 109,
+      "nodeName": "Playing saxophone",
+      "parentId": 61,
+      "parentName": "Playing musical instruments"
+    },
+    {
+      "nodeId": 110,
+      "nodeName": "Chopping wood",
+      "parentId": 34,
+      "parentName": "Heating and cooling"
+    },
+    {
+      "nodeId": 34,
+      "nodeName": "Heating and cooling",
+      "parentId": 15,
+      "parentName": "Interior Maintenance, Repair, & Decoration"
+    },
+    {
+      "nodeId": 15,
+      "nodeName": "Interior Maintenance, Repair, & Decoration",
+      "parentId": 1,
+      "parentName": "Household Activities"
+    },
+    {
+      "nodeId": 113,
+      "nodeName": "Washing face",
+      "parentId": 62,
+      "parentName": "Washing, dressing and grooming oneself"
+    },
+    {
+      "nodeId": 114,
+      "nodeName": "Using the pommel horse",
+      "parentId": 24,
+      "parentName": "Doing gymnastics"
+    },
+    {
+      "nodeId": 24,
+      "nodeName": "Doing gymnastics",
+      "parentId": 17,
+      "parentName": "Participating in Sports, Exercise, or Recreation"
+    },
+    {
+      "nodeId": 116,
+      "nodeName": "Javelin throw",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 117,
+      "nodeName": "Spinning",
+      "parentId": 58,
+      "parentName": "Using cardiovascular equipment"
+    },
+    {
+      "nodeId": 58,
+      "nodeName": "Using cardiovascular equipment",
+      "parentId": 17,
+      "parentName": "Participating in Sports, Exercise, or Recreation"
+    },
+    {
+      "nodeId": 119,
+      "nodeName": "Ping-pong",
+      "parentId": 54,
+      "parentName": "Playing racquet sports "
+    },
+    {
+      "nodeId": 54,
+      "nodeName": "Playing racquet sports ",
+      "parentId": 17,
+      "parentName": "Participating in Sports, Exercise, or Recreation"
+    },
+    {
+      "nodeId": 129,
+      "nodeName": "Making a sandwich",
+      "parentId": 31,
+      "parentName": "Food and drink preparation "
+    },
+    {
+      "nodeId": 125,
+      "nodeName": "Brushing hair",
+      "parentId": 62,
+      "parentName": "Washing, dressing and grooming oneself"
+    },
+    {
+      "nodeId": 251,
+      "nodeName": "Playing guitarra",
+      "parentId": 61,
+      "parentName": "Playing musical instruments"
+    },
+    {
+      "nodeId": 230,
+      "nodeName": "Doing step aerobics",
+      "parentId": 55,
+      "parentName": "Doing aerobics"
+    },
+    {
+      "nodeId": 135,
+      "nodeName": "Drinking beer",
+      "parentId": 46,
+      "parentName": "Eating and Drinking"
+    },
+    {
+      "nodeId": 75,
+      "nodeName": "Playing polo",
+      "parentId": 49,
+      "parentName": "Participating in equestrian sports"
+    },
+    {
+      "nodeId": 49,
+      "nodeName": "Participating in equestrian sports",
+      "parentId": 17,
+      "parentName": "Participating in Sports, Exercise, or Recreation"
+    },
+    {
+      "nodeId": 79,
+      "nodeName": "Snatch",
+      "parentId": 35,
+      "parentName": "Weightlifting"
+    },
+    {
+      "nodeId": 141,
+      "nodeName": "Paintball",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 80,
+      "nodeName": "Long jump",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 143,
+      "nodeName": "Cleaning windows",
+      "parentId": 37,
+      "parentName": "Interior cleaning"
+    },
+    {
+      "nodeId": 37,
+      "nodeName": "Interior cleaning",
+      "parentId": 16,
+      "parentName": "Housework"
+    },
+    {
+      "nodeId": 16,
+      "nodeName": "Housework",
+      "parentId": 1,
+      "parentName": "Household Activities"
+    },
+    {
+      "nodeId": 148,
+      "nodeName": "Brushing teeth",
+      "parentId": 62,
+      "parentName": "Washing, dressing and grooming oneself"
+    },
+    {
+      "nodeId": 149,
+      "nodeName": "Playing flauta",
+      "parentId": 61,
+      "parentName": "Playing musical instruments"
+    },
+    {
+      "nodeId": 152,
+      "nodeName": "Tennis serve with ball bouncing",
+      "parentId": 54,
+      "parentName": "Playing racquet sports "
+    },
+    {
+      "nodeId": 154,
+      "nodeName": "Bungee jumping",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 155,
+      "nodeName": "Triple jump",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 175,
+      "nodeName": "Horseback riding",
+      "parentId": 49,
+      "parentName": "Participating in equestrian sports"
+    },
+    {
+      "nodeId": 159,
+      "nodeName": "Layup drill in basketball",
+      "parentId": 52,
+      "parentName": "Playing basketball"
+    },
+    {
+      "nodeId": 52,
+      "nodeName": "Playing basketball",
+      "parentId": 17,
+      "parentName": "Participating in Sports, Exercise, or Recreation"
+    },
+    {
+      "nodeId": 160,
+      "nodeName": "Vacuuming floor",
+      "parentId": 37,
+      "parentName": "Interior cleaning"
+    },
+    {
+      "nodeId": 134,
+      "nodeName": "Cleaning shoes",
+      "parentId": 45,
+      "parentName": "Sewing, repairing, & maintaining textiles"
+    },
+    {
+      "nodeId": 45,
+      "nodeName": "Sewing, repairing, & maintaining textiles",
+      "parentId": 16,
+      "parentName": "Housework"
+    },
+    {
+      "nodeId": 167,
+      "nodeName": "Doing nails",
+      "parentId": 62,
+      "parentName": "Washing, dressing and grooming oneself"
+    },
+    {
+      "nodeId": 169,
+      "nodeName": "Shot put",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 171,
+      "nodeName": "Fixing bicycle",
+      "parentId": 56,
+      "parentName": "Vehicle repair and maintenance (by self)"
+    },
+    {
+      "nodeId": 56,
+      "nodeName": "Vehicle repair and maintenance (by self)",
+      "parentId": 13,
+      "parentName": "Vehicles"
+    },
+    {
+      "nodeId": 13,
+      "nodeName": "Vehicles",
+      "parentId": 1,
+      "parentName": "Household Activities"
+    },
+    {
+      "nodeId": 173,
+      "nodeName": "Washing hands",
+      "parentId": 62,
+      "parentName": "Washing, dressing and grooming oneself"
+    },
+    {
+      "nodeId": 83,
+      "nodeName": "Ironing clothes",
+      "parentId": 30,
+      "parentName": "Laundry"
+    },
+    {
+      "nodeId": 30,
+      "nodeName": "Laundry",
+      "parentId": 16,
+      "parentName": "Housework"
+    },
+    {
+      "nodeId": 180,
+      "nodeName": "Using the balance beam",
+      "parentId": 24,
+      "parentName": "Doing gymnastics"
+    },
+    {
+      "nodeId": 183,
+      "nodeName": "Shoveling snow",
+      "parentId": 51,
+      "parentName": "Exterior cleaning"
+    },
+    {
+      "nodeId": 51,
+      "nodeName": "Exterior cleaning",
+      "parentId": 12,
+      "parentName": "Exterior Maintenance, Repair, & Decoration"
+    },
+    {
+      "nodeId": 12,
+      "nodeName": "Exterior Maintenance, Repair, & Decoration",
+      "parentId": 1,
+      "parentName": "Household Activities"
+    },
+    {
+      "nodeId": 258,
+      "nodeName": "Tumbling",
+      "parentId": 24,
+      "parentName": "Doing gymnastics"
+    },
+    {
+      "nodeId": 88,
+      "nodeName": "Using parallel bars",
+      "parentId": 24,
+      "parentName": "Doing gymnastics"
+    },
+    {
+      "nodeId": 187,
+      "nodeName": "Getting a tattoo",
+      "parentId": 38,
+      "parentName": "Washing, dressing and grooming"
+    },
+    {
+      "nodeId": 38,
+      "nodeName": "Washing, dressing and grooming",
+      "parentId": 20,
+      "parentName": "Grooming"
+    },
+    {
+      "nodeId": 188,
+      "nodeName": "Rock climbing",
+      "parentId": 50,
+      "parentName": "Climbing, spelunking, caving"
+    },
+    {
+      "nodeId": 50,
+      "nodeName": "Climbing, spelunking, caving",
+      "parentId": 17,
+      "parentName": "Participating in Sports, Exercise, or Recreation"
+    },
+    {
+      "nodeId": 189,
+      "nodeName": "Smoking hookah",
+      "parentId": 28,
+      "parentName": "Tobacco and drug use"
+    },
+    {
+      "nodeId": 28,
+      "nodeName": "Tobacco and drug use",
+      "parentId": 11,
+      "parentName": "Relaxing and Leisure"
+    },
+    {
+      "nodeId": 11,
+      "nodeName": "Relaxing and Leisure",
+      "parentId": 7,
+      "parentName": "Socializing, Relaxing, and Leisure"
+    },
+    {
+      "nodeId": 190,
+      "nodeName": "Shaving",
+      "parentId": 62,
+      "parentName": "Washing, dressing and grooming oneself"
+    },
+    {
+      "nodeId": 214,
+      "nodeName": "Getting a piercing",
+      "parentId": 38,
+      "parentName": "Washing, dressing and grooming"
+    },
+    {
+      "nodeId": 193,
+      "nodeName": "Springboard diving",
+      "parentId": 42,
+      "parentName": "Participating in water sports"
+    },
+    {
+      "nodeId": 42,
+      "nodeName": "Participating in water sports",
+      "parentId": 17,
+      "parentName": "Participating in Sports, Exercise, or Recreation"
+    },
+    {
+      "nodeId": 194,
+      "nodeName": "Playing squash",
+      "parentId": 54,
+      "parentName": "Playing racquet sports "
+    },
+    {
+      "nodeId": 197,
+      "nodeName": "Playing piano",
+      "parentId": 61,
+      "parentName": "Playing musical instruments"
+    },
+    {
+      "nodeId": 161,
+      "nodeName": "Dodgeball",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 201,
+      "nodeName": "Smoking a cigarette",
+      "parentId": 28,
+      "parentName": "Tobacco and drug use"
+    },
+    {
+      "nodeId": 240,
+      "nodeName": "Sailing",
+      "parentId": 42,
+      "parentName": "Participating in water sports"
+    },
+    {
+      "nodeId": 208,
+      "nodeName": "Getting a haircut",
+      "parentId": 38,
+      "parentName": "Washing, dressing and grooming"
+    },
+    {
+      "nodeId": 209,
+      "nodeName": "Playing lacrosse",
+      "parentId": 54,
+      "parentName": "Playing racquet sports "
+    },
+    {
+      "nodeId": 211,
+      "nodeName": "Cumbia",
+      "parentId": 23,
+      "parentName": "Dancing"
+    },
+    {
+      "nodeId": 263,
+      "nodeName": "Tai chi",
+      "parentId": 27,
+      "parentName": "Participating in martial arts"
+    },
+    {
+      "nodeId": 217,
+      "nodeName": "Painting",
+      "parentId": 33,
+      "parentName": "Interior arrangement, decoration, & repairs"
+    },
+    {
+      "nodeId": 33,
+      "nodeName": "Interior arrangement, decoration, & repairs",
+      "parentId": 15,
+      "parentName": "Interior Maintenance, Repair, & Decoration"
+    },
+    {
+      "nodeId": 218,
+      "nodeName": "Mowing the lawn",
+      "parentId": 66,
+      "parentName": "Lawn, garden, and houseplant care"
+    },
+    {
+      "nodeId": 66,
+      "nodeName": "Lawn, garden, and houseplant care",
+      "parentId": 10,
+      "parentName": "Lawn, Garden, and Houseplants"
+    },
+    {
+      "nodeId": 10,
+      "nodeName": "Lawn, Garden, and Houseplants",
+      "parentId": 1,
+      "parentName": "Household Activities"
+    },
+    {
+      "nodeId": 200,
+      "nodeName": "Shaving legs",
+      "parentId": 62,
+      "parentName": "Washing, dressing and grooming oneself"
+    },
+    {
+      "nodeId": 221,
+      "nodeName": "Walking the dog",
+      "parentId": 26,
+      "parentName": "Walking / exercising / playing with animals"
+    },
+    {
+      "nodeId": 224,
+      "nodeName": "Hammer throw",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 176,
+      "nodeName": "Skateboarding",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 227,
+      "nodeName": "Polishing shoes",
+      "parentId": 45,
+      "parentName": "Sewing, repairing, & maintaining textiles"
+    },
+    {
+      "nodeId": 229,
+      "nodeName": "Ballet",
+      "parentId": 39,
+      "parentName": "Attending arts and entertainment"
+    },
+    {
+      "nodeId": 39,
+      "nodeName": "Attending arts and entertainment",
+      "parentId": 21,
+      "parentName": "Arts and Entertainment"
+    },
+    {
+      "nodeId": 232,
+      "nodeName": "Hand washing clothes",
+      "parentId": 30,
+      "parentName": "Laundry"
+    },
+    {
+      "nodeId": 233,
+      "nodeName": "Plataform diving",
+      "parentId": 42,
+      "parentName": "Participating in water sports"
+    },
+    {
+      "nodeId": 234,
+      "nodeName": "Playing violin",
+      "parentId": 61,
+      "parentName": "Playing musical instruments"
+    },
+    {
+      "nodeId": 236,
+      "nodeName": "Breakdancing",
+      "parentId": 23,
+      "parentName": "Dancing"
+    },
+    {
+      "nodeId": 237,
+      "nodeName": "Windsurfing",
+      "parentId": 42,
+      "parentName": "Participating in water sports"
+    },
+    {
+      "nodeId": 241,
+      "nodeName": "Hopscotch",
+      "parentId": 48,
+      "parentName": "Playing games"
+    },
+    {
+      "nodeId": 48,
+      "nodeName": "Playing games",
+      "parentId": 11,
+      "parentName": "Relaxing and Leisure"
+    },
+    {
+      "nodeId": 243,
+      "nodeName": "Doing motocross",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 244,
+      "nodeName": "Mixing drinks",
+      "parentId": 31,
+      "parentName": "Food and drink preparation "
+    },
+    {
+      "nodeId": 153,
+      "nodeName": "Starting a campfire",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 247,
+      "nodeName": "Belly dance",
+      "parentId": 23,
+      "parentName": "Dancing"
+    },
+    {
+      "nodeId": 248,
+      "nodeName": "Removing curlers",
+      "parentId": 62,
+      "parentName": "Washing, dressing and grooming oneself"
+    },
+    {
+      "nodeId": 250,
+      "nodeName": "Archery",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 123,
+      "nodeName": "Playing volleyball",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 130,
+      "nodeName": "Playing water polo",
+      "parentId": 42,
+      "parentName": "Participating in water sports"
+    },
+    {
+      "nodeId": 253,
+      "nodeName": "Playing racquetball",
+      "parentId": 54,
+      "parentName": "Playing racquet sports "
+    },
+    {
+      "nodeId": 254,
+      "nodeName": "Kayaking",
+      "parentId": 42,
+      "parentName": "Participating in water sports"
+    },
+    {
+      "nodeId": 156,
+      "nodeName": "Polishing forniture",
+      "parentId": 37,
+      "parentName": "Interior cleaning"
+    },
+    {
+      "nodeId": 257,
+      "nodeName": "Playing kickball",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 192,
+      "nodeName": "Using uneven bars",
+      "parentId": 24,
+      "parentName": "Doing gymnastics"
+    },
+    {
+      "nodeId": 213,
+      "nodeName": "Washing dishes",
+      "parentId": 43,
+      "parentName": "Kitchen and food clean-up"
+    },
+    {
+      "nodeId": 43,
+      "nodeName": "Kitchen and food clean-up",
+      "parentId": 18,
+      "parentName": "Food & Drink Prep., Presentation, & Clean-up"
+    },
+    {
+      "nodeId": 106,
+      "nodeName": "Pole vault",
+      "parentId": 64,
+      "parentName": "Playing sports"
+    },
+    {
+      "nodeId": 267,
+      "nodeName": "Playing accordion",
+      "parentId": 61,
+      "parentName": "Playing musical instruments"
+    },
+    {
+      "nodeId": 268,
+      "nodeName": "Playing badminton",
+      "parentId": 54,
+      "parentName": "Playing racquet sports "
+    }
+  ],
+  "version": "VERSION 1.2"
+}
